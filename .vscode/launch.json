@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Main<sistema-bobinagem>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "io.github.tiagoadmstz.cbi.sistemabobinagem.Main",
+            "projectName": "sistema-bobinagem",
+            "args": ""
+        }
+    ]
+}
